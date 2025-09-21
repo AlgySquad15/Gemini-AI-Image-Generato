@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Image Generator",
+  "description": "A sleek and modern web application that leverages the Google Gemini AI to generate high-quality images from text prompts. Enter a description and watch your ideas come to life.",
+  "requestFramePermissions": []
+}
